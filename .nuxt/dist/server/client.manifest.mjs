@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/narim/Dropbox/%D0%9F%D0%9A/Downloads/web_lab/my-app/my-app/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
