@@ -68,7 +68,7 @@
 
         <!-- YouTube -->
         <a href="https://www.youtube.com" target="_blank" class="transition hover:scale-110">
-          <img src="https://www.svgrepo.com/show/452196/youtube.svg" class="w-6 h-6 drop-shadow" alt="YouTube logo" />
+          <img src="https://netlify.com/favicon.ico" class="w-6 h-6 drop-shadow" alt="YouTube logo" />
         </a>
 </footer>
 
@@ -92,7 +92,7 @@ const switchBurger = () => {
 useHead({
   script: [
     {
-      src: "https://www.googletagmanager.com/gtag/js?id=G-RES3C5BQ23",
+      src: "https://www.googletagmanager.com/gtag/js?id=G-CXQNXLFMHP",
       async: true
     },
     {
@@ -100,12 +100,14 @@ useHead({
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-RES3C5BQ23');
+        gtag('config', 'G-CXQNXLFMHP');
       `,
       type: "text/javascript"
     }
   ]
 })
 </script>
+
+
 
 
