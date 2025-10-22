@@ -5,8 +5,4 @@
   </div>
 </template>
 
-<script setup>
-import { ref } from 'vue';
 
-const showImage = ref(false);
-</script>
